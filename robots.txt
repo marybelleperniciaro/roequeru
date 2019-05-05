@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beihobaidu.svenandersson.se/sitemap.xml
